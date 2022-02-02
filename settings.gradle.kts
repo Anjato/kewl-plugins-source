@@ -23,7 +23,7 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-rootProject.name = "external plugins example"
+rootProject.name = "kewl-plugins"
 
 include(":kotlinexample")
 include(":javaexample")
