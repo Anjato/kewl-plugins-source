@@ -25,3 +25,4 @@ hs_err*
 replay_pid*
 javaexample/
 kotlinexample/
+*.py
