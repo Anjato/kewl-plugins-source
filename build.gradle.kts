@@ -8,14 +8,14 @@ plugins {
     checkstyle
 }
 
-project.extra["GithubUrl"] = "https://github.com/Anjato/kewl-plugins-release"
+project.extra["GithubUrl"] = "https://github.com/Anjato/kewl-plugins"
 
 apply<BootstrapPlugin>()
 
 subprojects {
     group = "com.example"
 
-    project.extra["PluginProvider"] = "Anjato"
+    project.extra["PluginProvider"] = ""
     project.extra["ProjectSupportUrl"] = ""
     project.extra["PluginLicense"] = "3-Clause BSD License"
 
