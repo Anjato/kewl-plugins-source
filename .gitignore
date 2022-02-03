@@ -26,4 +26,5 @@ replay_pid*
 javaexample/
 kotlinexample/
 *.py
+*.pyw
 *.log
